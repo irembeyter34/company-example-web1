@@ -1,0 +1,168 @@
+body {
+    background-color: #e9e7e7;
+    font-family: 'Lato', sans-serif;
+}
+.headermenu li {
+    margin-right: 60px; 
+}
+.headermenu li a.active {
+    color:black;
+    font-weight: bold;
+}
+.headermenu li a {
+    color: #515155;
+}
+.headermenu li a:hover{
+    font-weight: bold;
+    color: black;
+}
+.slidertitle {
+    font-size: 70px;
+    margin-top: 20px;
+    line-height: 1;
+    transition-delay: 1s;
+    font-weight: bold;
+}
+.slidertext {
+    margin-top: 30px;
+}
+.bgimage{
+    height: 85vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../img/bg.png);
+    background-size: 100%;
+    background-color: #e9e7e7;
+}
+.imageblack{
+    background-position: center;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+}
+.sectiontwo {
+    background-image: url('../img/black.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 387px;
+    background-size: 100% 100%;
+}
+.sectionthree {
+    background-image: url('../img/threeback.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+.image {
+    height: auto;
+    max-width: 100%;
+}
+.imagetext1 {
+    font-size: 40px;
+    margin-top: 20px;
+    line-height: 1;
+    transition-delay: 1s;
+    font-weight: bold;
+}
+.imagetext2 {
+    font-size: 40px;
+    margin-top: 20px;
+    line-height: 1;
+    transition-delay: 1s;
+    font-weight: bold;
+}
+.imagetext3 {
+    font-size: 40px;
+    margin-top: 20px;
+    line-height: 1;
+    transition-delay: 1s;
+    font-weight: bold;
+    
+}
+.fourback {
+    background-image:url('../img/fourback.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    height: 500px;
+}
+.writetext {
+    font-size: 70px;
+    line-height: 1;
+    transition-delay: 1s;
+    font-weight: bold;
+    padding: 20px;
+}
+#id{
+    font-size: 20px;
+    line-height: 1;
+    transition-delay: 1s;
+    font-weight: bold;  
+}
+.fiveback {
+    background-image:url('../img/fiveback.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    height: 850px;
+}
+.submit {
+    font-size: 20px;
+    text-decoration: double;
+}
+.imagetext4 {
+        font-size: 50px;
+        line-height: 1,5;
+        transition-delay: 1s;
+        font-weight: bold;
+        margin-top: 10px;
+}
+.paragraf {
+    font-size: 20px;
+        line-height: 1;
+        transition-delay: 1s;
+        font-weight: bold;
+        margin-left: auto;
+}
+.sixback {
+    background-image:url('../img/sixback.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    height: 840px;
+}
+.imagetext6 {
+    font-weight: bold;
+    transition-delay: 1s;
+    margin-top: 120px;
+    font-size: 55px;
+    font-family: 'Playfair Display', serif;
+}
+.mountainman {
+    background-image:url('../img/mountainman.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    height: 562px;
+}
+.mountainman {
+    margin-top: 120px;
+   
+}
+.classic {
+    background-color: #e9e7e7;
+    font-size: 55px;
+}
+.texttt {
+    font-size: 63px;
+    transition-delay: 1s;
+    font-weight: bold;
+
+}
+.rsim {
+    width: 314px;
+    height: 388px;
+}
+.footerback {
+    background-image:url('../img/footer.jpg');
+}
