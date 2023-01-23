@@ -196,3 +196,25 @@ body {
     border-style: double;
     border-color: black;
 }
+.iremtel {
+    color: black;
+    font-family: 'EB Garamond', serif;}
+   
+.iremail {
+   color: black;
+   display: block;
+   font-family: 'EB Garamond', serif;
+}
+.iremadres {
+    color: black;
+   display: block;
+   font-family: 'EB Garamond', serif;
+}
+.abouttext {
+    color: black;
+   display: block;
+   font-family: 'EB Garamond', serif;
+}
+
+
+  
